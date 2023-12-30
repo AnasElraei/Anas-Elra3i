@@ -1,0 +1,56 @@
+.nav{
+    background-color: red;
+    margin-top: -10px;
+    border-radius: 8px;
+    height: 50px;
+}
+
+.navitems{
+display: flex;
+font-size: 15px;
+margin-left:600px;
+margin-top: -40px;
+gap: 8px;
+}
+a{
+    color: cornsilk;
+    text-decoration: none;
+}
+h1{
+    margin-left: 10px;
+
+}
+h1:hover{
+    color: aqua;
+}
+
+body{
+    background-color:rgb(47, 43, 43);
+}
+
+
+.about{
+    border-radius: 9px;
+    height: 300px;
+    background-color: rgb(228, 54, 10);
+    margin-top: 100px;
+    
+}
+p{
+    width: 400px;
+}
+
+.images{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-top: -200px;
+    margin-right: 50px;
+    
+}
+.img{
+    border-radius: 8px;
+    height: 150px;
+    width: 150px;
+    
+}
